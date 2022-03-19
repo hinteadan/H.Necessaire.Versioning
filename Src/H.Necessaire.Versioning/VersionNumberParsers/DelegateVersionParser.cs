@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace H.Versioning.VersionNumberParsers
+namespace H.Necessaire.Versioning.VersionNumberParsers
 {
     internal sealed class DelegateVersionParser : ICanParseVersionNumber
     {

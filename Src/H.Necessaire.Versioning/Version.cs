@@ -1,10 +1,10 @@
-﻿using H.Versioning.VersionNumberParsers;
-using H.Versioning.VersionProviders;
+﻿using H.Necessaire.Versioning.VersionNumberParsers;
+using H.Necessaire.Versioning.VersionProviders;
 using System;
 using System.Globalization;
 using System.Linq;
 
-namespace H.Versioning
+namespace H.Necessaire.Versioning
 {
     public sealed class Version
     {

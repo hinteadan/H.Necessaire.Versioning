@@ -2,7 +2,7 @@
 using System.IO;
 using System.Reflection;
 
-namespace H.Versioning.VersionProviders
+namespace H.Necessaire.Versioning.VersionProviders
 {
     internal sealed class TheOneVersionProvider : VersionProviderPipeline
     {

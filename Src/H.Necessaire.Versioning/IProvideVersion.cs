@@ -1,4 +1,4 @@
-﻿namespace H.Versioning
+﻿namespace H.Necessaire.Versioning
 {
     public interface IProvideVersion
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace H.Versioning
+namespace H.Necessaire.Versioning
 {
     internal abstract class VersionProviderPipeline : IProvideVersion
     {

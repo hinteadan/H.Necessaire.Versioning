@@ -1,7 +1,7 @@
 ﻿using H.Necessaire;
 using H.Necessaire.Runtime.CLI.Commands;
 
-namespace H.Versioning.Cli.Commands
+namespace H.Necessaire.Versioning.Cli.Commands
 {
     internal class VersionCommand : CommandBase
     {

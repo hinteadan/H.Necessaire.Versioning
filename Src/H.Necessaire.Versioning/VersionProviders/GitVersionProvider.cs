@@ -4,7 +4,7 @@ using System.Collections.Concurrent;
 using System.IO;
 using System.Linq;
 
-namespace H.Versioning.VersionProviders
+namespace H.Necessaire.Versioning.VersionProviders
 {
     internal sealed class GitVersionProvider : IProvideVersion
     {

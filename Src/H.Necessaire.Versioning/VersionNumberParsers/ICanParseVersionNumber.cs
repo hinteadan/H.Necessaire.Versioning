@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace H.Versioning.VersionNumberParsers
+namespace H.Necessaire.Versioning.VersionNumberParsers
 {
     public interface ICanParseVersionNumber
     {

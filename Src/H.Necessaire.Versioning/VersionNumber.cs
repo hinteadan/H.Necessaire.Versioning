@@ -2,9 +2,9 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Text;
-using H.Versioning.VersionNumberParsers;
+using H.Necessaire.Versioning.VersionNumberParsers;
 
-namespace H.Versioning
+namespace H.Necessaire.Versioning
 {
     public sealed class VersionNumber
     {

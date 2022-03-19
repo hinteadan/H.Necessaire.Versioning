@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace H.Versioning.VersionProviders
+namespace H.Necessaire.Versioning.VersionProviders
 {
     internal sealed class FileVersionProvider : IProvideVersion
     {
